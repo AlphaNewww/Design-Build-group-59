@@ -1,0 +1,10 @@
+com\nx\utils\TxtUtil.class
+com\nx\dao\CarDataDao.class
+com\nx\utils\AdbUtil.class
+com\nx\utils\PropertiesUtil.class
+com\nx\utils\JdbcUtil.class
+com\nx\App.class
+com\nx\pojo\CarData.class
+com\nx\ExitThread.class
+com\nx\utils\StrUtil.class
+com\nx\dao\CarDataDaoImpl.class
